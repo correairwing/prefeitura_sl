@@ -23,7 +23,7 @@ export default function ListUser() {
     }
     return (
         <div>
-            <h1>Cadastrar pessoa</h1>
+            <h2 className='text-xl font-bold my-5'>Cadastrar pessoa</h2>
             <form onSubmit={handleSubmit}>
                 <table cellSpacing="10">
                     <tbody>

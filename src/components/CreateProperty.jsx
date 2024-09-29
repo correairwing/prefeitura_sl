@@ -26,7 +26,7 @@ const CreateProperty = () => {
 
     return ( 
         <div>
-            <h1>Cadastrar imóvel</h1>
+            <h2 className='text-xl font-bold my-5'>Cadastrar imóvel</h2>
             <form onSubmit={handleSubmit}>
                 <table cellSpacing="10">
                     <tbody>

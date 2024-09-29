@@ -37,7 +37,7 @@ const EditProperty = () => {
     }
     return (
         <div>
-            <h1>Editar cadastro de imóvel</h1>
+            <h2 className='text-xl font-bold my-5'>Editar cadastro de imóvel</h2>
             <form onSubmit={handleSubmit}>
                 <table cellSpacing="10">
                     <tbody>
