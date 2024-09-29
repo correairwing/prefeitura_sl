@@ -48,7 +48,7 @@ export default function ListUser() {
                 </div>
 
                 <div className="flex flex-col">
-                    <label className="font-semibold mb-2">Mobile:</label>
+                    <label className="font-semibold mb-2">Celular:</label>
                     <input 
                     type="tel" 
                     name="mobile" 
@@ -59,7 +59,8 @@ export default function ListUser() {
 
                 <div className="flex flex-col">
                     <label className="font-semibold mb-2">CPF:</label>
-                    <input 
+                    <input
+                    placeholder="Somente números" 
                     type="text" 
                     name="cpf" 
                     onChange={handleChange} 
