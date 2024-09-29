@@ -60,7 +60,7 @@ O frontend será iniciado em `http://localhost:3000`.
 1. No repositório, há um arquivo de exportação do banco de dados disponível. Importe-o para o MySQL:
 
    ```bash
-   mysql -u root -p < nome_do_banco_de_dados < /caminho/do/arquivo/exportado.sql
+   mysql -u root -p < nome_do_banco_de_dados < /caminho/do/arquivo/export_db.sql
    ```
 
 Isso irá configurar o banco de dados necessário para a aplicação.
