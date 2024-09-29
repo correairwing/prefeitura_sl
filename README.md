@@ -27,10 +27,9 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas no s
 
    ```bash
    git clone https://github.com/correairwing/prefeitura_sl
-   cd <diretorio-do-projeto>/frontend
    ```
 
-2. Instale as dependências do projeto React:
+2. Navegue até a pasta escolhida e instale as dependências do projeto React:
 
    ```bash
    npm install
