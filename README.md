@@ -26,7 +26,7 @@ Antes de começar, certifique-se de ter as seguintes ferramentas instaladas no s
 1. Clone o repositório para sua máquina local:
 
    ```bash
-   git clone <https://github.com/correairwing/prefeitura_sl>
+   git clone https://github.com/correairwing/prefeitura_sl
    cd <diretorio-do-projeto>/frontend
    ```
 
