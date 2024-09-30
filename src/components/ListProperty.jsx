@@ -28,7 +28,7 @@ const ListProperty = () => {
         <div>
             <h2 className="text-2xl font-bold my-5 text-center">Imóveis cadastrados</h2>
             <div className="overflow-x-auto shadow-md sm:rounded-lg">
-                <table>
+                <table className="w-full">
                 <thead className="bg-sky-800 text-white">
                     <tr className="text-nowrap">
                     <th className=" px-6 py-3 text-left text-s font-medium uppercase tracking-wider">Inscrição municipal</th>
